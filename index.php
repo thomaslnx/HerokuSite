@@ -1,3 +1,4 @@
 <?php
-phpinfo()
+//phpinfo()
+include_once("index.html");
 ?>
